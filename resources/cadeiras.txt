@@ -1,0 +1,1142 @@
+<li class="{{ Request::is('exerciciosc1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('exerciciosc1m1s.index') }}"><i class="fa fa-edit"></i><span>Exerciciosc1M1S</span></a>
+</li>
+
+
+
+
+
+<li class="{{ Request::is('ap1aulac2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap1aulac2m2s.index') }}"><i class="fa fa-edit"></i><span>Ap1Aulac2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap1aulac3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap1aulac3m2s.index') }}"><i class="fa fa-edit"></i><span>Ap1Aulac3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap1aulac3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap1aulac3m1s.index') }}"><i class="fa fa-edit"></i><span>Ap1Aulac3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap1debatec2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap1debatec2m2s.index') }}"><i class="fa fa-edit"></i><span>Ap1Debatec2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap1debatec2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap1debatec2m1s.index') }}"><i class="fa fa-edit"></i><span>Ap1Debatec2M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap1debatec3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap1debatec3m1s.index') }}"><i class="fa fa-edit"></i><span>Ap1Debatec3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap1debatec3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap1debatec3m2s.index') }}"><i class="fa fa-edit"></i><span>Ap1Debatec3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap1exercicioc2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap1exercicioc2m1s.index') }}"><i class="fa fa-edit"></i><span>Ap1Exercicioc2M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap1exercicioc2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap1exercicioc2m2s.index') }}"><i class="fa fa-edit"></i><span>Ap1Exercicioc2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap1exercicioc3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap1exercicioc3m2s.index') }}"><i class="fa fa-edit"></i><span>Ap1Exercicioc3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap1exercicioc3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap1exercicioc3m1s.index') }}"><i class="fa fa-edit"></i><span>Ap1Exercicioc3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap2exercicioc3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap2exercicioc3m1s.index') }}"><i class="fa fa-edit"></i><span>Ap2Exercicioc3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap2exercicioc3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap2exercicioc3m2s.index') }}"><i class="fa fa-edit"></i><span>Ap2Exercicioc3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap2debatec3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap2debatec3m2s.index') }}"><i class="fa fa-edit"></i><span>Ap2Debatec3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap2debatec3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap2debatec3m1s.index') }}"><i class="fa fa-edit"></i><span>Ap2Debatec3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap2debatec2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap2debatec2m1s.index') }}"><i class="fa fa-edit"></i><span>Ap2Debatec2M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap2debatec2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap2debatec2m2s.index') }}"><i class="fa fa-edit"></i><span>Ap2Debatec2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap2debatec1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap2debatec1m2s.index') }}"><i class="fa fa-edit"></i><span>Ap2Debatec1M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap2debatec1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap2debatec1m1s.index') }}"><i class="fa fa-edit"></i><span>Ap2Debatec1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap2exercicioc2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap2exercicioc2m1s.index') }}"><i class="fa fa-edit"></i><span>Ap2Exercicioc2M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap2exercicioc2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap2exercicioc2m2s.index') }}"><i class="fa fa-edit"></i><span>Ap2Exercicioc2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap2exercicioc1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap2exercicioc1m2s.index') }}"><i class="fa fa-edit"></i><span>Ap2Exercicioc1M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap2exercicioc1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap2exercicioc1m1s.index') }}"><i class="fa fa-edit"></i><span>Ap2Exercicioc1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap2aulac3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap2aulac3m1s.index') }}"><i class="fa fa-edit"></i><span>Ap2Aulac3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap2aulac3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap2aulac3m2s.index') }}"><i class="fa fa-edit"></i><span>Ap2Aulac3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap2aulac2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap2aulac2m2s.index') }}"><i class="fa fa-edit"></i><span>Ap2Aulac2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap2aulac2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap2aulac2m1s.index') }}"><i class="fa fa-edit"></i><span>Ap2Aulac2M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap2aulac1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap2aulac1m1s.index') }}"><i class="fa fa-edit"></i><span>Ap2Aulac1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap2aulac1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap2aulac1m2s.index') }}"><i class="fa fa-edit"></i><span>Ap2Aulac1M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap3aulac1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap3aulac1m2s.index') }}"><i class="fa fa-edit"></i><span>Ap3Aulac1M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap3aulac1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap3aulac1m1s.index') }}"><i class="fa fa-edit"></i><span>Ap3Aulac1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap3aulac2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap3aulac2m1s.index') }}"><i class="fa fa-edit"></i><span>Ap3Aulac2M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap3aulac2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap3aulac2m2s.index') }}"><i class="fa fa-edit"></i><span>Ap3Aulac2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap3aulac3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap3aulac3m2s.index') }}"><i class="fa fa-edit"></i><span>Ap3Aulac3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap3aulac3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap3aulac3m1s.index') }}"><i class="fa fa-edit"></i><span>Ap3Aulac3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap3exercicioc3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap3exercicioc3m1s.index') }}"><i class="fa fa-edit"></i><span>Ap3Exercicioc3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap3exercicioc3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap3exercicioc3m2s.index') }}"><i class="fa fa-edit"></i><span>Ap3Exercicioc3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap3exercicioc2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap3exercicioc2m2s.index') }}"><i class="fa fa-edit"></i><span>Ap3Exercicioc2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap3exercicioc2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap3exercicioc2m1s.index') }}"><i class="fa fa-edit"></i><span>Ap3Exercicioc2M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap3exercicioc1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap3exercicioc1m1s.index') }}"><i class="fa fa-edit"></i><span>Ap3Exercicioc1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap3exercicioc1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap3exercicioc1m2s.index') }}"><i class="fa fa-edit"></i><span>Ap3Exercicioc1M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap3debatec1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap3debatec1m2s.index') }}"><i class="fa fa-edit"></i><span>Ap3Debatec1M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap3debatec1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap3debatec1m1s.index') }}"><i class="fa fa-edit"></i><span>Ap3Debatec1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap3debatec2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap3debatec2m1s.index') }}"><i class="fa fa-edit"></i><span>Ap3Debatec2M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap3debatec2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap3debatec2m2s.index') }}"><i class="fa fa-edit"></i><span>Ap3Debatec2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap3debatec3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap3debatec3m2s.index') }}"><i class="fa fa-edit"></i><span>Ap3Debatec3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap3debatec3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap3debatec3m1s.index') }}"><i class="fa fa-edit"></i><span>Ap3Debatec3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap4debatec3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap4debatec3m1s.index') }}"><i class="fa fa-edit"></i><span>Ap4Debatec3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap4debatec3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap4debatec3m2s.index') }}"><i class="fa fa-edit"></i><span>Ap4Debatec3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap4debatec2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap4debatec2m2s.index') }}"><i class="fa fa-edit"></i><span>Ap4Debatec2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap4debatec2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap4debatec2m1s.index') }}"><i class="fa fa-edit"></i><span>Ap4Debatec2M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap4debatec1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap4debatec1m1s.index') }}"><i class="fa fa-edit"></i><span>Ap4Debatec1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap4debatec1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap4debatec1m2s.index') }}"><i class="fa fa-edit"></i><span>Ap4Debatec1M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap4exercicioc1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap4exercicioc1m2s.index') }}"><i class="fa fa-edit"></i><span>Ap4Exercicioc1M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap4exercicioc1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap4exercicioc1m1s.index') }}"><i class="fa fa-edit"></i><span>Ap4Exercicioc1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap4exercicioc2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap4exercicioc2m1s.index') }}"><i class="fa fa-edit"></i><span>Ap4Exercicioc2M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap4exercicioc2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap4exercicioc2m2s.index') }}"><i class="fa fa-edit"></i><span>Ap4Exercicioc2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap4exercicioc3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap4exercicioc3m2s.index') }}"><i class="fa fa-edit"></i><span>Ap4Exercicioc3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap4exercicioc3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap4exercicioc3m1s.index') }}"><i class="fa fa-edit"></i><span>Ap4Exercicioc3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap4aulac3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap4aulac3m1s.index') }}"><i class="fa fa-edit"></i><span>Ap4Aulac3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap4aulac3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap4aulac3m2s.index') }}"><i class="fa fa-edit"></i><span>Ap4Aulac3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap4aulac2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap4aulac2m2s.index') }}"><i class="fa fa-edit"></i><span>Ap4Aulac2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('ap4aulac2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap4aulac2m1s.index') }}"><i class="fa fa-edit"></i><span>Ap4Aulac2M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap4aulac1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('ap4aulac1m1s.index') }}"><i class="fa fa-edit"></i><span>Ap4Aulac1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('ap4aulac1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('ap4aulac1m2s.index') }}"><i class="fa fa-edit"></i><span>Ap4Aulac1M2S</span></a>
+</li>
+
+
+
+
+<li class="{{ Request::is('f1aulac1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f1aulac1m1s.index') }}"><i class="fa fa-edit"></i><span>F1Aulac1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f1aulac1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f1aulac1m2s.index') }}"><i class="fa fa-edit"></i><span>F1Aulac1M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f1aulac2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f1aulac2m2s.index') }}"><i class="fa fa-edit"></i><span>F1Aulac2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f1aulac2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f1aulac2m1s.index') }}"><i class="fa fa-edit"></i><span>F1Aulac2M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f1aulac3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f1aulac3m1s.index') }}"><i class="fa fa-edit"></i><span>F1Aulac3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f1aulac3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f1aulac3m2s.index') }}"><i class="fa fa-edit"></i><span>F1Aulac3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f1exercicioc1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f1exercicioc1m1s.index') }}"><i class="fa fa-edit"></i><span>F1Exercicioc1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f1exercicioc1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f1exercicioc1m2s.index') }}"><i class="fa fa-edit"></i><span>F1Exercicioc1M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f1exercicioc2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f1exercicioc2m2s.index') }}"><i class="fa fa-edit"></i><span>F1Exercicioc2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f1exercicioc2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f1exercicioc2m1s.index') }}"><i class="fa fa-edit"></i><span>F1Exercicioc2M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f1exercicioc3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f1exercicioc3m1s.index') }}"><i class="fa fa-edit"></i><span>F1Exercicioc3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f1exercicioc3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f1exercicioc3m2s.index') }}"><i class="fa fa-edit"></i><span>F1Exercicioc3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f1debatec1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f1debatec1m1s.index') }}"><i class="fa fa-edit"></i><span>F1Debatec1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f1debatec1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f1debatec1m2s.index') }}"><i class="fa fa-edit"></i><span>F1Debatec1M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f1debatec2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f1debatec2m2s.index') }}"><i class="fa fa-edit"></i><span>F1Debatec2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f1debatec2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f1debatec2m1s.index') }}"><i class="fa fa-edit"></i><span>F1Debatec2M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f1debatec3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f1debatec3m1s.index') }}"><i class="fa fa-edit"></i><span>F1Debatec3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f1debatec3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f1debatec3m2s.index') }}"><i class="fa fa-edit"></i><span>F1Debatec3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f2aulac1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f2aulac1m1s.index') }}"><i class="fa fa-edit"></i><span>F2Aulac1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f2aulac1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f2aulac1m2s.index') }}"><i class="fa fa-edit"></i><span>F2Aulac1M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f2aulac2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f2aulac2m2s.index') }}"><i class="fa fa-edit"></i><span>F2Aulac2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f2aulac2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f2aulac2m1s.index') }}"><i class="fa fa-edit"></i><span>F2Aulac2M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f2aulac3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f2aulac3m1s.index') }}"><i class="fa fa-edit"></i><span>F2Aulac3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f2aulac3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f2aulac3m2s.index') }}"><i class="fa fa-edit"></i><span>F2Aulac3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f2exercicioc1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f2exercicioc1m1s.index') }}"><i class="fa fa-edit"></i><span>F2Exercicioc1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f2exercicioc1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f2exercicioc1m2s.index') }}"><i class="fa fa-edit"></i><span>F2Exercicioc1M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f2exercicioc2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f2exercicioc2m2s.index') }}"><i class="fa fa-edit"></i><span>F2Exercicioc2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f2exercicioc2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f2exercicioc2m1s.index') }}"><i class="fa fa-edit"></i><span>F2Exercicioc2M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f2exercicioc3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f2exercicioc3m1s.index') }}"><i class="fa fa-edit"></i><span>F2Exercicioc3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f2exercicioc3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f2exercicioc3m2s.index') }}"><i class="fa fa-edit"></i><span>F2Exercicioc3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f2debatec1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f2debatec1m1s.index') }}"><i class="fa fa-edit"></i><span>F2Debatec1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f2debatec1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f2debatec1m2s.index') }}"><i class="fa fa-edit"></i><span>F2Debatec1M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f2debatec2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f2debatec2m1s.index') }}"><i class="fa fa-edit"></i><span>F2Debatec2M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f2debatec2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f2debatec2m2s.index') }}"><i class="fa fa-edit"></i><span>F2Debatec2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f2debatec3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f2debatec3m2s.index') }}"><i class="fa fa-edit"></i><span>F2Debatec3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f2debatec3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f2debatec3m1s.index') }}"><i class="fa fa-edit"></i><span>F2Debatec3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f3aulac1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f3aulac1m1s.index') }}"><i class="fa fa-edit"></i><span>F3Aulac1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f3aulac1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f3aulac1m2s.index') }}"><i class="fa fa-edit"></i><span>F3Aulac1M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f3aulac2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f3aulac2m2s.index') }}"><i class="fa fa-edit"></i><span>F3Aulac2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f3aulac2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f3aulac2m1s.index') }}"><i class="fa fa-edit"></i><span>F3Aulac2M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f3aulac3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f3aulac3m1s.index') }}"><i class="fa fa-edit"></i><span>F3Aulac3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f3aulac3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f3aulac3m2s.index') }}"><i class="fa fa-edit"></i><span>F3Aulac3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f3exercicioc1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f3exercicioc1m1s.index') }}"><i class="fa fa-edit"></i><span>F3Exercicioc1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f3exercicioc1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f3exercicioc1m2s.index') }}"><i class="fa fa-edit"></i><span>F3Exercicioc1M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f3exercicioc2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f3exercicioc2m2s.index') }}"><i class="fa fa-edit"></i><span>F3Exercicioc2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f3exercicioc2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f3exercicioc2m1s.index') }}"><i class="fa fa-edit"></i><span>F3Exercicioc2M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f3exercicioc3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f3exercicioc3m1s.index') }}"><i class="fa fa-edit"></i><span>F3Exercicioc3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f3exercicioc3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f3exercicioc3m2s.index') }}"><i class="fa fa-edit"></i><span>F3Exercicioc3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f3debatec1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f3debatec1m1s.index') }}"><i class="fa fa-edit"></i><span>F3Debatec1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f3debatec1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f3debatec1m2s.index') }}"><i class="fa fa-edit"></i><span>F3Debatec1M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f3debatec2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f3debatec2m2s.index') }}"><i class="fa fa-edit"></i><span>F3Debatec2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f3debatec2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f3debatec2m1s.index') }}"><i class="fa fa-edit"></i><span>F3Debatec2M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f3debatec3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f3debatec3m1s.index') }}"><i class="fa fa-edit"></i><span>F3Debatec3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f3debatec3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f3debatec3m2s.index') }}"><i class="fa fa-edit"></i><span>F3Debatec3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f4aulac1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f4aulac1m1s.index') }}"><i class="fa fa-edit"></i><span>F4Aulac1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f4aulac1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f4aulac1m2s.index') }}"><i class="fa fa-edit"></i><span>F4Aulac1M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f4aulac2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f4aulac2m2s.index') }}"><i class="fa fa-edit"></i><span>F4Aulac2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f4aulac2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f4aulac2m1s.index') }}"><i class="fa fa-edit"></i><span>F4Aulac2M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f4aulac3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f4aulac3m1s.index') }}"><i class="fa fa-edit"></i><span>F4Aulac3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f4aulac3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f4aulac3m2s.index') }}"><i class="fa fa-edit"></i><span>F4Aulac3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f4exercicioc1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f4exercicioc1m1s.index') }}"><i class="fa fa-edit"></i><span>F4Exercicioc1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f4exercicioc1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f4exercicioc1m2s.index') }}"><i class="fa fa-edit"></i><span>F4Exercicioc1M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f4exercicioc2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f4exercicioc2m2s.index') }}"><i class="fa fa-edit"></i><span>F4Exercicioc2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f4exercicioc2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f4exercicioc2m1s.index') }}"><i class="fa fa-edit"></i><span>F4Exercicioc2M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f4exercicioc3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f4exercicioc3m1s.index') }}"><i class="fa fa-edit"></i><span>F4Exercicioc3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f4exercicioc3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f4exercicioc3m2s.index') }}"><i class="fa fa-edit"></i><span>F4Exercicioc3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f4debatec1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f4debatec1m1s.index') }}"><i class="fa fa-edit"></i><span>F4Debatec1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f4debatec1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f4debatec1m2s.index') }}"><i class="fa fa-edit"></i><span>F4Debatec1M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f4debatec2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f4debatec2m2s.index') }}"><i class="fa fa-edit"></i><span>F4Debatec2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('f4debatec2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f4debatec2m1s.index') }}"><i class="fa fa-edit"></i><span>F4Debatec2M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f4debatec3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('f4debatec3m1s.index') }}"><i class="fa fa-edit"></i><span>F4Debatec3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('f4debatec3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('f4debatec3m2s.index') }}"><i class="fa fa-edit"></i><span>F4Debatec3M2S</span></a>
+</li>
+
+
+
+
+
+<li class="{{ Request::is('p1aulac2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p1aulac2m2s.index') }}"><i class="fa fa-edit"></i><span>P1Aulac2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('p1aulac2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p1aulac2m1s.index') }}"><i class="fa fa-edit"></i><span>P1Aulac2M1S</span></a>
+</li>
+<li class="{{ Request::is('p1exercicioc2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p1exercicioc2m2s.index') }}"><i class="fa fa-edit"></i><span>P1Exercicioc2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('p1exercicioc2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p1exercicioc2m1s.index') }}"><i class="fa fa-edit"></i><span>P1Exercicioc2M1S</span></a>
+</li>
+<li class="{{ Request::is('p1debatec2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p1debatec2m2s.index') }}"><i class="fa fa-edit"></i><span>P1Debatec2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('p1debatec2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p1debatec2m1s.index') }}"><i class="fa fa-edit"></i><span>P1Debatec2M1S</span></a>
+</li>
+
+
+
+
+<li class="{{ Request::is('p1aulac3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p1aulac3m1s.index') }}"><i class="fa fa-edit"></i><span>P1Aulac3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('p1aulac3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p1aulac3m2s.index') }}"><i class="fa fa-edit"></i><span>P1Aulac3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('p1exercicioc3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p1exercicioc3m1s.index') }}"><i class="fa fa-edit"></i><span>P1Exercicioc3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('p1exercicioc3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p1exercicioc3m2s.index') }}"><i class="fa fa-edit"></i><span>P1Exercicioc3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('p1debatec3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p1debatec3m1s.index') }}"><i class="fa fa-edit"></i><span>P1Debatec3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('p1debatec3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p1debatec3m2s.index') }}"><i class="fa fa-edit"></i><span>P1Debatec3M2S</span></a>
+</li>
+
+
+
+
+<li class="{{ Request::is('p2aulac1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p2aulac1m1s.index') }}"><i class="fa fa-edit"></i><span>P2Aulac1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('p2aulac1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p2aulac1m2s.index') }}"><i class="fa fa-edit"></i><span>P2Aulac1M2S</span></a>
+</li>
+<li class="{{ Request::is('p2exercicioc1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p2exercicioc1m1s.index') }}"><i class="fa fa-edit"></i><span>P2Exercicioc1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('p2exercicioc1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p2exercicioc1m2s.index') }}"><i class="fa fa-edit"></i><span>P2Exercicioc1M2S</span></a>
+</li>
+
+
+<li class="{{ Request::is('p2debatec1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p2debatec1m1s.index') }}"><i class="fa fa-edit"></i><span>P2Debatec1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('p2debatec1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p2debatec1m2s.index') }}"><i class="fa fa-edit"></i><span>P2Debatec1M2S</span></a>
+</li>
+
+
+
+<li class="{{ Request::is('p2aulac2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p2aulac2m2s.index') }}"><i class="fa fa-edit"></i><span>P2Aulac2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('p2aulac2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p2aulac2m1s.index') }}"><i class="fa fa-edit"></i><span>P2Aulac2M1S</span></a>
+</li>
+
+
+<li class="{{ Request::is('p2exercicioc2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p2exercicioc2m2s.index') }}"><i class="fa fa-edit"></i><span>P2Exercicioc2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('p2exercicioc2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p2exercicioc2m1s.index') }}"><i class="fa fa-edit"></i><span>P2Exercicioc2M1S</span></a>
+</li>
+
+<li class="{{ Request::is('p2debatec2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p2debatec2m2s.index') }}"><i class="fa fa-edit"></i><span>P2Debatec2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('p2debatec2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p2debatec2m1s.index') }}"><i class="fa fa-edit"></i><span>P2Debatec2M1S</span></a>
+</li>
+
+
+
+
+<li class="{{ Request::is('p2aulac3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p2aulac3m1s.index') }}"><i class="fa fa-edit"></i><span>P2Aulac3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('p2aulac3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p2aulac3m2s.index') }}"><i class="fa fa-edit"></i><span>P2Aulac3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('p2exercicioc3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p2exercicioc3m1s.index') }}"><i class="fa fa-edit"></i><span>P2Exercicioc3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('p2exercicioc3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p2exercicioc3m2s.index') }}"><i class="fa fa-edit"></i><span>P2Exercicioc3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('p2debatec3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p2debatec3m1s.index') }}"><i class="fa fa-edit"></i><span>P2Debatec3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('p2debatec3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p2debatec3m2s.index') }}"><i class="fa fa-edit"></i><span>P2Debatec3M2S</span></a>
+</li>
+
+
+
+<li class="{{ Request::is('p3aulac1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p3aulac1m1s.index') }}"><i class="fa fa-edit"></i><span>P3Aulac1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('p3aulac1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p3aulac1m2s.index') }}"><i class="fa fa-edit"></i><span>P3Aulac1M2S</span></a>
+</li>
+<li class="{{ Request::is('p3exercicioc1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p3exercicioc1m1s.index') }}"><i class="fa fa-edit"></i><span>P3Exercicioc1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('p3exercicioc1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p3exercicioc1m2s.index') }}"><i class="fa fa-edit"></i><span>P3Exercicioc1M2S</span></a>
+</li>
+<li class="{{ Request::is('p3debatec1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p3debatec1m1s.index') }}"><i class="fa fa-edit"></i><span>P3Debatec1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('p3debatec1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p3debatec1m2s.index') }}"><i class="fa fa-edit"></i><span>P3Debatec1M2S</span></a>
+</li>
+
+
+
+
+<li class="{{ Request::is('p3aulac2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p3aulac2m2s.index') }}"><i class="fa fa-edit"></i><span>P3Aulac2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('p3aulac2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p3aulac2m1s.index') }}"><i class="fa fa-edit"></i><span>P3Aulac2M1S</span></a>
+</li>
+<li class="{{ Request::is('p3exercicioc2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p3exercicioc2m2s.index') }}"><i class="fa fa-edit"></i><span>P3Exercicioc2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('p3exercicioc2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p3exercicioc2m1s.index') }}"><i class="fa fa-edit"></i><span>P3Exercicioc2M1S</span></a>
+</li>
+<li class="{{ Request::is('p3debatec2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p3debatec2m2s.index') }}"><i class="fa fa-edit"></i><span>P3Debatec2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('p3debatec2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p3debatec2m1s.index') }}"><i class="fa fa-edit"></i><span>P3Debatec2M1S</span></a>
+</li>
+
+
+<li class="{{ Request::is('p3aulac3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p3aulac3m1s.index') }}"><i class="fa fa-edit"></i><span>P3Aulac3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('p3aulac3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p3aulac3m2s.index') }}"><i class="fa fa-edit"></i><span>P3Aulac3M2S</span></a>
+</li>
+<li class="{{ Request::is('p3exercicioc3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p3exercicioc3m1s.index') }}"><i class="fa fa-edit"></i><span>P3Exercicioc3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('p3exercicioc3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p3exercicioc3m2s.index') }}"><i class="fa fa-edit"></i><span>P3Exercicioc3M2S</span></a>
+</li>
+<li class="{{ Request::is('p3debatec3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p3debatec3m1s.index') }}"><i class="fa fa-edit"></i><span>P3Debatec3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('p3debatec3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p3debatec3m2s.index') }}"><i class="fa fa-edit"></i><span>P3Debatec3M2S</span></a>
+</li>
+
+
+
+
+
+<li class="{{ Request::is('p4aulac1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p4aulac1m1s.index') }}"><i class="fa fa-edit"></i><span>P4Aulac1M1S</span></a>
+</li>
+<li class="{{ Request::is('p4aulac1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p4aulac1m2s.index') }}"><i class="fa fa-edit"></i><span>P4Aulac1M2S</span></a>
+</li>
+<li class="{{ Request::is('p4exercicioc1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p4exercicioc1m1s.index') }}"><i class="fa fa-edit"></i><span>P4Exercicioc1M1S</span></a>
+</li>
+<li class="{{ Request::is('p4exercicioc1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p4exercicioc1m2s.index') }}"><i class="fa fa-edit"></i><span>P4Exercicioc1M2S</span></a>
+</li>
+<li class="{{ Request::is('p4debatec1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p4debatec1m1s.index') }}"><i class="fa fa-edit"></i><span>P4Debatec1M1S</span></a>
+</li>
+<li class="{{ Request::is('p4debatec1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p4debatec1m2s.index') }}"><i class="fa fa-edit"></i><span>P4Debatec1M2S</span></a>
+</li>
+
+
+
+<li class="{{ Request::is('p4aulac2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p4aulac2m2s.index') }}"><i class="fa fa-edit"></i><span>P4Aulac2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('p4aulac2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p4aulac2m1s.index') }}"><i class="fa fa-edit"></i><span>P4Aulac2M1S</span></a>
+</li>
+<li class="{{ Request::is('p4exercicioc2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p4exercicioc2m2s.index') }}"><i class="fa fa-edit"></i><span>P4Exercicioc2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('p4exercicioc2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p4exercicioc2m1s.index') }}"><i class="fa fa-edit"></i><span>P4Exercicioc2M1S</span></a>
+</li>
+<li class="{{ Request::is('p4debatec2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p4debatec2m2s.index') }}"><i class="fa fa-edit"></i><span>P4Debatec2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('p4debatec2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p4debatec2m1s.index') }}"><i class="fa fa-edit"></i><span>P4Debatec2M1S</span></a>
+</li>
+
+
+
+<li class="{{ Request::is('p4aulac3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p4aulac3m1s.index') }}"><i class="fa fa-edit"></i><span>P4Aulac3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('p4aulac3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p4aulac3m2s.index') }}"><i class="fa fa-edit"></i><span>P4Aulac3M2S</span></a>
+</li>
+
+<li class="{{ Request::is('p4exercicioc3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p4exercicioc3m1s.index') }}"><i class="fa fa-edit"></i><span>P4Exercicioc3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('p4exercicioc3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p4exercicioc3m2s.index') }}"><i class="fa fa-edit"></i><span>P4Exercicioc3M2S</span></a>
+</li>
+
+
+<li class="{{ Request::is('p4debatec3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('p4debatec3m1s.index') }}"><i class="fa fa-edit"></i><span>P4Debatec3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('p4debatec3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('p4debatec3m2s.index') }}"><i class="fa fa-edit"></i><span>P4Debatec3M2S</span></a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="{{ Request::is('e1aulac1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e1aulac1m1s.index') }}"><i class="fa fa-edit"></i><span>E1Aulac1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('e1aulac1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e1aulac1m2s.index') }}"><i class="fa fa-edit"></i><span>E1Aulac1M2S</span></a>
+</li>
+<li class="{{ Request::is('e1exercicioc1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e1exercicioc1m1s.index') }}"><i class="fa fa-edit"></i><span>E1Exercicioc1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('e1exercicioc1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e1exercicioc1m2s.index') }}"><i class="fa fa-edit"></i><span>E1Exercicioc1M2S</span></a>
+</li>
+<li class="{{ Request::is('e1debatec1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e1debatec1m1s.index') }}"><i class="fa fa-edit"></i><span>E1Debatec1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('e1debatec1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e1debatec1m2s.index') }}"><i class="fa fa-edit"></i><span>E1Debatec1M2S</span></a>
+</li>
+
+
+
+
+<li class="{{ Request::is('e1aulac2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e1aulac2m2s.index') }}"><i class="fa fa-edit"></i><span>E1Aulac2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('e1aulac2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e1aulac2m1s.index') }}"><i class="fa fa-edit"></i><span>E1Aulac2M1S</span></a>
+</li>
+<li class="{{ Request::is('e1exercicioc2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e1exercicioc2m2s.index') }}"><i class="fa fa-edit"></i><span>E1Exercicioc2M2S</span></a>
+</li>
+<li class="{{ Request::is('e1exercicioc2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e1exercicioc2m1s.index') }}"><i class="fa fa-edit"></i><span>E1Exercicioc2M1S</span></a>
+</li>
+<li class="{{ Request::is('e1debatec2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e1debatec2m2s.index') }}"><i class="fa fa-edit"></i><span>E1Debatec2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('e1debatec2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e1debatec2m1s.index') }}"><i class="fa fa-edit"></i><span>E1Debatec2M1S</span></a>
+</li>
+
+
+
+<li class="{{ Request::is('e1aulac3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e1aulac3m1s.index') }}"><i class="fa fa-edit"></i><span>E1Aulac3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('e1aulac3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e1aulac3m2s.index') }}"><i class="fa fa-edit"></i><span>E1Aulac3M2S</span></a>
+</li>
+<li class="{{ Request::is('e1exercicioc3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e1exercicioc3m1s.index') }}"><i class="fa fa-edit"></i><span>E1Exercicioc3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('e1exercicioc3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e1exercicioc3m2s.index') }}"><i class="fa fa-edit"></i><span>E1Exercicioc3M2S</span></a>
+</li>
+<li class="{{ Request::is('e1debatec3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e1debatec3m1s.index') }}"><i class="fa fa-edit"></i><span>E1Debatec3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('e1debatec3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e1debatec3m2s.index') }}"><i class="fa fa-edit"></i><span>E1Debatec3M2S</span></a>
+</li>
+
+
+
+
+
+
+<li class="{{ Request::is('e2aulac1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e2aulac1m1s.index') }}"><i class="fa fa-edit"></i><span>E2Aulac1M1S</span></a>
+</li>
+<li class="{{ Request::is('e2aulac1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e2aulac1m2s.index') }}"><i class="fa fa-edit"></i><span>E2Aulac1M2S</span></a>
+</li>
+<li class="{{ Request::is('e2exercicioc1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e2exercicioc1m1s.index') }}"><i class="fa fa-edit"></i><span>E2Exercicioc1M1S</span></a>
+</li>
+<li class="{{ Request::is('e2exercicioc1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e2exercicioc1m2s.index') }}"><i class="fa fa-edit"></i><span>E2Exercicioc1M2S</span></a>
+</li>
+<li class="{{ Request::is('e2debatec1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e2debatec1m1s.index') }}"><i class="fa fa-edit"></i><span>E2Debatec1M1S</span></a>
+</li>
+<li class="{{ Request::is('e2debatec1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e2debatec1m2s.index') }}"><i class="fa fa-edit"></i><span>E2Debatec1M2S</span></a>
+</li>
+
+
+
+
+
+<li class="{{ Request::is('e2aulac2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e2aulac2m2s.index') }}"><i class="fa fa-edit"></i><span>E2Aulac2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('e2aulac2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e2aulac2m1s.index') }}"><i class="fa fa-edit"></i><span>E2Aulac2M1S</span></a>
+</li>
+<li class="{{ Request::is('e2exercicioc2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e2exercicioc2m2s.index') }}"><i class="fa fa-edit"></i><span>E2Exercicioc2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('e2exercicioc2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e2exercicioc2m1s.index') }}"><i class="fa fa-edit"></i><span>E2Exercicioc2M1S</span></a>
+</li>
+<li class="{{ Request::is('e2debatec2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e2debatec2m2s.index') }}"><i class="fa fa-edit"></i><span>E2Debatec2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('e2debatec2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e2debatec2m1s.index') }}"><i class="fa fa-edit"></i><span>E2Debatec2M1S</span></a>
+</li>
+
+
+
+
+
+<li class="{{ Request::is('e2aulac3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e2aulac3m1s.index') }}"><i class="fa fa-edit"></i><span>E2Aulac3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('e2aulac3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e2aulac3m2s.index') }}"><i class="fa fa-edit"></i><span>E2Aulac3M2S</span></a>
+</li>
+<li class="{{ Request::is('e2exercicioc3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e2exercicioc3m1s.index') }}"><i class="fa fa-edit"></i><span>E2Exercicioc3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('e2exercicioc3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e2exercicioc3m2s.index') }}"><i class="fa fa-edit"></i><span>E2Exercicioc3M2S</span></a>
+</li>
+<li class="{{ Request::is('e2debatec3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e2debatec3m1s.index') }}"><i class="fa fa-edit"></i><span>E2Debatec3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('e2debatec3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e2debatec3m2s.index') }}"><i class="fa fa-edit"></i><span>E2Debatec3M2S</span></a>
+</li>
+
+
+
+
+<li class="{{ Request::is('e3aulac1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e3aulac1m1s.index') }}"><i class="fa fa-edit"></i><span>E3Aulac1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('e3aulac1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e3aulac1m2s.index') }}"><i class="fa fa-edit"></i><span>E3Aulac1M2S</span></a>
+</li>
+<li class="{{ Request::is('e3exercicioc1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e3exercicioc1m1s.index') }}"><i class="fa fa-edit"></i><span>E3Exercicioc1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('e3exercicioc1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e3exercicioc1m2s.index') }}"><i class="fa fa-edit"></i><span>E3Exercicioc1M2S</span></a>
+</li>
+<li class="{{ Request::is('e3debatec1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e3debatec1m1s.index') }}"><i class="fa fa-edit"></i><span>E3Debatec1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('e3debatec1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e3debatec1m2s.index') }}"><i class="fa fa-edit"></i><span>E3Debatec1M2S</span></a>
+</li>
+
+
+
+
+<li class="{{ Request::is('e3aulac2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e3aulac2m2s.index') }}"><i class="fa fa-edit"></i><span>E3Aulac2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('e3aulac2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e3aulac2m1s.index') }}"><i class="fa fa-edit"></i><span>E3Aulac2M1S</span></a>
+</li>
+<li class="{{ Request::is('e3exercicioc2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e3exercicioc2m2s.index') }}"><i class="fa fa-edit"></i><span>E3Exercicioc2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('e3exercicioc2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e3exercicioc2m1s.index') }}"><i class="fa fa-edit"></i><span>E3Exercicioc2M1S</span></a>
+</li>
+<li class="{{ Request::is('e3debatec2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e3debatec2m2s.index') }}"><i class="fa fa-edit"></i><span>E3Debatec2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('e3debatec2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e3debatec2m1s.index') }}"><i class="fa fa-edit"></i><span>E3Debatec2M1S</span></a>
+</li>
+
+
+
+<li class="{{ Request::is('e3aulac3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e3aulac3m1s.index') }}"><i class="fa fa-edit"></i><span>E3Aulac3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('e3aulac3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e3aulac3m2s.index') }}"><i class="fa fa-edit"></i><span>E3Aulac3M2S</span></a>
+</li>
+<li class="{{ Request::is('e3exercicioc3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e3exercicioc3m1s.index') }}"><i class="fa fa-edit"></i><span>E3Exercicioc3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('e3exercicioc3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e3exercicioc3m2s.index') }}"><i class="fa fa-edit"></i><span>E3Exercicioc3M2S</span></a>
+</li>
+<li class="{{ Request::is('e3debatec3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e3debatec3m1s.index') }}"><i class="fa fa-edit"></i><span>E3Debatec3M1S</span></a>
+</li>
+
+<li class="{{ Request::is('e3debatec3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e3debatec3m2s.index') }}"><i class="fa fa-edit"></i><span>E3Debatec3M2S</span></a>
+</li>
+
+
+
+
+
+<li class="{{ Request::is('e4aulac1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e4aulac1m1s.index') }}"><i class="fa fa-edit"></i><span>E4Aulac1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('e4aulac1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e4aulac1m2s.index') }}"><i class="fa fa-edit"></i><span>E4Aulac1M2S</span></a>
+</li>
+<li class="{{ Request::is('e4exercicioc1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e4exercicioc1m1s.index') }}"><i class="fa fa-edit"></i><span>E4Exercicioc1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('e4exercicioc1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e4exercicioc1m2s.index') }}"><i class="fa fa-edit"></i><span>E4Exercicioc1M2S</span></a>
+</li>
+<li class="{{ Request::is('e4debatec1m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e4debatec1m1s.index') }}"><i class="fa fa-edit"></i><span>E4Debatec1M1S</span></a>
+</li>
+
+<li class="{{ Request::is('e4debatec1m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e4debatec1m2s.index') }}"><i class="fa fa-edit"></i><span>E4Debatec1M2S</span></a>
+</li>
+
+
+
+
+<li class="{{ Request::is('e4aulac2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e4aulac2m2s.index') }}"><i class="fa fa-edit"></i><span>E4Aulac2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('e4aulac2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e4aulac2m1s.index') }}"><i class="fa fa-edit"></i><span>E4Aulac2M1S</span></a>
+</li>
+<li class="{{ Request::is('e4exercicioc2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e4exercicioc2m2s.index') }}"><i class="fa fa-edit"></i><span>E4Exercicioc2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('e4exercicioc2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e4exercicioc2m1s.index') }}"><i class="fa fa-edit"></i><span>E4Exercicioc2M1S</span></a>
+</li>
+<li class="{{ Request::is('e4debatec2m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e4debatec2m2s.index') }}"><i class="fa fa-edit"></i><span>E4Debatec2M2S</span></a>
+</li>
+
+<li class="{{ Request::is('e4debatec2m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e4debatec2m1s.index') }}"><i class="fa fa-edit"></i><span>E4Debatec2M1S</span></a>
+</li>
+
+
+
+<li class="{{ Request::is('e4aulac3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e4aulac3m1s.index') }}"><i class="fa fa-edit"></i><span>Aula</span></a>
+</li>
+<li class="{{ Request::is('e4exercicioc3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e4exercicioc3m1s.index') }}"><i class="fa fa-edit"></i><span>Exercicio</span></a>
+</li>
+<li class="{{ Request::is('e4debatec3m1s*') ? 'active' : '' }}">
+    <a href="{{ route('e4debatec3m1s.index') }}"><i class="fa fa-edit"></i><span>Debate</span></a>
+</li>
+
+<li class="{{ Request::is('e4aulac3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e4aulac3m2s.index') }}"><i class="fa fa-edit"></i><span>Aula</span></a>
+</li>
+<li class="{{ Request::is('e4exercicioc3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e4exercicioc3m2s.index') }}"><i class="fa fa-edit"></i><span>Exercicio</span></a>
+</li>
+<li class="{{ Request::is('e4debatec3m2s*') ? 'active' : '' }}">
+    <a href="{{ route('e4debatec3m2s.index') }}"><i class="fa fa-edit"></i><span>Debate</span></a>
+</li>
